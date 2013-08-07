@@ -1,7 +1,10 @@
 ---
+title: page awesome
+color: red
+size: large
 ---
 
-# page
+# {{ page.title }}
 
 * one
 * two
